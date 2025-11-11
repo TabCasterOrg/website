@@ -1,5 +1,9 @@
 colorScheme = "forest"
 logo = "tc-icon.png"
+mainSections = ["posts"]
 
 [homepage]
   layout = "profile"
+  showRecent = true
+  showRecentItems = 6
+  cardView = true
