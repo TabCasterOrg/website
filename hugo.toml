@@ -8,3 +8,6 @@ theme = 'blowfish'
     name = "About"
     url = "/about/"
     weight = 10   
+[params]
+  logo = "tc_logo.png"
+  description = "A new physical monitor for Linux, using your Android tablet."
