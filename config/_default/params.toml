@@ -1,3 +1,6 @@
-[params]
-  logo = "tc-icon.png"
-  description = "A new physical monitor for Linux, using your Android tablet."
+logo = "tc-icon.png"
+description = "A new physical monitor for Linux, using your Android tablet."
+colorScheme = "forest"
+
+[homepage]
+  layout = "profile"
