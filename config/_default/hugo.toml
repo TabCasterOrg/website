@@ -3,8 +3,3 @@ baseURL = "http://localhost:1313/"
 languageCode = 'en-us'
 title = 'TabCaster'
 theme = 'blowfish'
-[menu]
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 10   
