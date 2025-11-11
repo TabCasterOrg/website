@@ -1,6 +1,5 @@
-logo = "tc-icon.png"
-description = "A new physical monitor for Linux, using your Android tablet."
 colorScheme = "forest"
+logo = "tc-icon.png"
 
 [homepage]
   layout = "profile"
